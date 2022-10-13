@@ -11,7 +11,7 @@
 |8	|Ratatouille	|Brad Bird|	2007|	115|
 |9	|WALL-E	|Andrew Stanton|	2008|	104|
 |10	|Up	|Pete Docter	|2009	101|
-|11	|Toy Story 3|	Lee Unkrich	2010	103|
+|11	|Toy Story 3|	Lee Unkrich|	2010|	103|
 |12	|Cars 2	|John Lasseter|	2011|	120|
-|13 |Brave	Brenda Chapman|	2012|	102|
+|13 |Brave|	Brenda Chapman|	2012|	102|
 |14	|Monsters University	|Dan Scanlon	|2013	|110|
