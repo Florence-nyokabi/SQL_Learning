@@ -15,3 +15,11 @@
 |12	|Cars 2	|John Lasseter|	2011|	120|
 |13 |Brave|	Brenda Chapman|	2012|	102|
 |14	|Monsters University	|Dan Scanlon	|2013	|110|
+
+
+### Exercise 1 — Tasks
+  1. Find the title of each film ✓
+  2. Find the director of each film ✓
+  3. Find the title and director of each film ✓
+  4. Find the title and year of each film ✓
+  5. Find all the information about each film ✓
